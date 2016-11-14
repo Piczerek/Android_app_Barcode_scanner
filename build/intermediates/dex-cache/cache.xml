@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_98116549cdd3d2475d00732062372f4d42d452c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e0f35a9236d47ff20d5ffb0bee3e7daa64c7f48d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecd17d5aaaf70e95aeec7092176907dc647397f1">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_29fe53d080a39e5745f52fbabeb0e174945851c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7031d62661e4abae4cc03ee27ef75e9ccabafef8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_fe3f458d81fb9c5e5d05912abf372ec302742c3a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cd55b9afc326a09cba698cfc74742b252c3dd5c">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e932c8267c84696c16d4ca72985ca70905c4a41\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_8bf9fad96c22d69ced1585cefb9c268def2c470b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1867596997d4b713729421a2f3bbffe5c5f2742a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e309deb18106f1749d47b932ef5d68771e34cdf0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_0cd836122874f8ba5e8b8e5169aa5d82b68934f1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_c4297a24a35c2dcad6a0a5dc5388661ace9c5f8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Pietrek\Desktop\testy\Android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_3f7c43ad311b6588a507ee315f323c4ec25fd520\classes.dex" />
+    </item>
+
+</items>
